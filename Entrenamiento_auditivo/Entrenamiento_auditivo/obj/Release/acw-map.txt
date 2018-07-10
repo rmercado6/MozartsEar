@@ -1,0 +1,4 @@
+Entrenamiento_auditivo.MainActivity, Entrenamiento_auditivo;md53c3b1129c251c9ffc78d6636c1c5ecac.MainActivity
+Entrenamiento_auditivo.MainActivity, Entrenamiento_auditivo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53c3b1129c251c9ffc78d6636c1c5ecac.MainActivity
+Entrenamiento_auditivo.MainActivity;md53c3b1129c251c9ffc78d6636c1c5ecac.MainActivity
+entrenamiento_auditivo.MainActivity;md53c3b1129c251c9ffc78d6636c1c5ecac.MainActivity

@@ -1,0 +1,7 @@
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\Entrenamiento_auditivo.dll
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\Java.Interop.dll
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\Mono.Android.dll
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\mscorlib.dll
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\System.Core.dll
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\System.dll
+C:\Ricardo\UANL\FIME\ITS\6to\Moviles\Mozart\Entrenamiento_auditivo\Entrenamiento_auditivo\Entrenamiento_auditivo\obj\Release\android\assets\System.Runtime.Serialization.dll
